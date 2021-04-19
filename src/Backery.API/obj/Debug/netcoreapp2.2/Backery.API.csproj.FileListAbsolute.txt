@@ -1,0 +1,14 @@
+C:\Users\Konstantin\prj\src\Backery.API\bin\Debug\netcoreapp2.2\Backery.API.deps.json
+C:\Users\Konstantin\prj\src\Backery.API\bin\Debug\netcoreapp2.2\Backery.API.runtimeconfig.json
+C:\Users\Konstantin\prj\src\Backery.API\bin\Debug\netcoreapp2.2\Backery.API.runtimeconfig.dev.json
+C:\Users\Konstantin\prj\src\Backery.API\bin\Debug\netcoreapp2.2\Backery.API.dll
+C:\Users\Konstantin\prj\src\Backery.API\bin\Debug\netcoreapp2.2\Backery.API.pdb
+C:\Users\Konstantin\prj\src\Backery.API\obj\Debug\netcoreapp2.2\Backery.API.csprojAssemblyReference.cache
+C:\Users\Konstantin\prj\src\Backery.API\obj\Debug\netcoreapp2.2\Backery.API.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\prj\src\Backery.API\obj\Debug\netcoreapp2.2\Backery.API.RazorAssemblyInfo.cache
+C:\Users\Konstantin\prj\src\Backery.API\obj\Debug\netcoreapp2.2\Backery.API.RazorAssemblyInfo.cs
+C:\Users\Konstantin\prj\src\Backery.API\obj\Debug\netcoreapp2.2\Backery.API.AssemblyInfoInputs.cache
+C:\Users\Konstantin\prj\src\Backery.API\obj\Debug\netcoreapp2.2\Backery.API.AssemblyInfo.cs
+C:\Users\Konstantin\prj\src\Backery.API\obj\Debug\netcoreapp2.2\Backery.API.RazorTargetAssemblyInfo.cache
+C:\Users\Konstantin\prj\src\Backery.API\obj\Debug\netcoreapp2.2\Backery.API.dll
+C:\Users\Konstantin\prj\src\Backery.API\obj\Debug\netcoreapp2.2\Backery.API.pdb
